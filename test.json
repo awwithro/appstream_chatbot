@@ -1,0 +1,25 @@
+{
+  "message": {
+    "text": "/appstream list",
+    "argumentText": " list",
+    "annotations": [
+      {
+        "length": 5,
+        "startIndex": 0,
+        "slashCommand": {
+          "type": "INVOKE",
+          "user": {
+            "avatarUrl": "https://.../avatar.png",
+            "displayName": "VoteBot",
+            "name": "users/1234567890987654321",
+            "type": "BOT"
+          }
+        },
+        "type": "SLASH_COMMAND"
+      }
+    ],
+    "slashCommand": {
+      "commandId": 1
+    }
+  }
+}
